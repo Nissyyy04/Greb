@@ -1,0 +1,10 @@
+Flask>=3.1.0            # Simple web framework ([pypi.org](https://pypi.org/project/Flask/?utm_source=chatgpt.com))
+discord-webhook>=1.4.1  # Python wrapper for Discord webhooks ([pypi.org](https://pypi.org/project/discord-webhook/))
+pyngrok>=7.2.8          # Python wrapper for ngrok ([pypi.org](https://pypi.org/project/pyngrok/))
+art
+fade
+colorama
+
+# (Optional for production)
+# gunicorn>=20.1.0       # WSGI HTTP server for UNIX
+# python-dotenv>=1.0.0   # Load env vars from .env files
