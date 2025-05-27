@@ -4,6 +4,7 @@ pyngrok>=7.2.8          # Python wrapper for ngrok ([pypi.org](https://pypi.org/
 art
 fade
 colorama
+asyncio>=3.4.3          # Asynchronous I/O ([pypi.org](https://pypi.org/project/asyncio/))
 
 # (Optional for production)
 # gunicorn>=20.1.0       # WSGI HTTP server for UNIX
